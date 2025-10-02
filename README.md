@@ -20,36 +20,35 @@ Each level file contains:
 
 ---
 
-## Level Index (quick view)
+## OverTheWire Bandit Levels 0–24
 
-| Level | Focus Skill |
-|-------|-------------|
-| [Level 00](levels/level00.md) | SSH basics |
-| [Level 01](levels/level01.md) | Reading files |
-| [Level 02](levels/level02.md) | Handling tricky filenames |
-| [Level 03](levels/level03.md) | Hidden files |
-| [Level 04](levels/level04.md) | File permissions |
-| [Level 05](levels/level05.md) | File searching with `find` |
-| [Level 06](levels/level06.md) | Spaces in filenames |
-| [Level 07](levels/level07.md) | Using `strings` + `grep` |
-| [Level 08](levels/level08.md) | Finding files by owner and size |
-| [Level 09](levels/level09.md) | Pattern searching |
-| [Level 10](levels/level10.md) | Base64 decoding |
-| [Level 11](levels/level11.md) | ROT13 decoding |
-| [Level 12](levels/level12.md) | Extracting archives |
-| [Level 13](levels/level13.md) | Using SSH keys |
-| [Level 14](levels/level14.md) | Sending data with Netcat |
-| [Level 15](levels/level15.md) | SSL basics with OpenSSL |
-| [Level 16](levels/level16.md) | Port scanning with Nmap |
-| [Level 17](levels/level17.md) | File comparison with `diff` |
-| [Level 18](levels/level18.md) | Bypassing shell restrictions |
-| [Level 19](levels/level19.md) | `setuid` binaries and privileges |
-| [Level 20](levels/level20.md) | Processes and networking |
-| [Level 21](levels/level21.md) | Reading cron jobs |
-| [Level 22](levels/level22.md) | Understanding cron scripts |
-| [Level 23](levels/level23.md) | Watching automation in action |
-| [Level 24](levels/level24.md) | Automating repetitive tasks |
-
+| Level | Link | Focus / Learning Points |
+|-------|------|------------------------|
+| 00 | [Level-00](Level-00/) | SSH login and basic file reading |
+| 01 | [Level-01](Level-01/) | Hidden files (`.hidden`) |
+| 02 | [Level-02](Level-02/) | Filenames with spaces |
+| 03 | [Level-03](Level-03/) | Files with special names like `-` |
+| 04 | [Level-04](Level-04/) | Identifying text files using `file` |
+| 05 | [Level-05](Level-05/) | Searching files by size using `find` |
+| 06 | [Level-06](Level-06/) | Finding files by permissions (`777`) |
+| 07 | [Level-07](Level-07/) | Locating files by owner |
+| 08 | [Level-08](Level-08/) | Exact byte-size file matching |
+| 09 | [Level-09](Level-09/) | Reinforced text file identification |
+| 10 | [Level-10](Level-10/) | Using `grep` with regex to filter content |
+| 11 | [Level-11](Level-11/) | Finding unique lines with `sort` & `uniq` |
+| 12 | [Level-12](Level-12/) | Pattern search within files |
+| 13 | [Level-13](Level-13/) | Recursive searching with `grep -r` |
+| 14 | [Level-14](Level-14/) | Finding the longest line using `wc -L` |
+| 15 | [Level-15](Level-15/) | Extracting gzip compressed files |
+| 16 | [Level-16](Level-16/) | Handling bzip2 compressed files |
+| 17 | [Level-17](Level-17/) | Extracting files from tar archives |
+| 18 | [Level-18](Level-18/) | Extracting specific files from zip archives |
+| 19 | [Level-19](Level-19/) | Decoding uuencoded files |
+| 20 | [Level-20](Level-20/) | Decoding base64 content |
+| 21 | [Level-21](Level-21/) | Using rot13 to decode text |
+| 22 | [Level-22](Level-22/) | Converting hex dumps back to binary |
+| 23 | [Level-23](Level-23/) | Extracting readable text from binaries with `strings` |
+| 24 | [Level-24](Level-24/) | [Final level focus here, e.g., advanced SSH or hidden data] |
 ---
 
 ## Note to Recruiters

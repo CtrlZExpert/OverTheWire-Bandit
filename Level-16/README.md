@@ -1,4 +1,4 @@
-    # Level 16 — Port discovery
+    # Level 16 - Port discovery
 
     ### Challenge
     Find an open port in a range and connect securely.

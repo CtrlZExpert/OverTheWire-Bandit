@@ -1,4 +1,4 @@
-    # Level 23 — Timed file drop
+    # Level 23 - Timed file drop
 
     ### Challenge
     Monitor a directory for files dropped by automation and read them.

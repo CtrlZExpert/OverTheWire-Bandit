@@ -1,4 +1,4 @@
-    # Level 21 — Cron inspection
+    # Level 21 - Cron inspection
 
     ### Challenge
     Inspect system cron jobs and identify where passwords may be stored.

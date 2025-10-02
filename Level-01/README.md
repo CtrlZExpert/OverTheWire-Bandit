@@ -1,4 +1,4 @@
-    # Level 01 — Reading files
+    # Level 01 - Reading files
 
     ### Challenge
     Find the password for the next level stored in a file named `-`.

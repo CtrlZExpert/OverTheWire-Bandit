@@ -1,4 +1,4 @@
-    # Level 08 — Find by owner
+    # Level 08 - Find by owner
 
     ### Challenge
     Locate a file owned by a given user and matching size constraints.

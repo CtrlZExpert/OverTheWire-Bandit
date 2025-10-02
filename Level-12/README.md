@@ -1,4 +1,4 @@
-    # Level 12 — Archive extraction
+    # Level 12 - Archive extraction
 
     ### Challenge
     Unpack nested compressed files to reach the password.

@@ -1,4 +1,4 @@
-    # Level 00 — SSH basics
+    # Level 00 - SSH basics
 
     ### Challenge
     Log into the Bandit server using SSH with the provided username and password.

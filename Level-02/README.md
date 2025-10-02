@@ -1,4 +1,4 @@
-    # Level 02 — Tricky filenames
+    # Level 02 - Tricky filenames
 
     ### Challenge
     Read a file that starts with a dash (`-`).

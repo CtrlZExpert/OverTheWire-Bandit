@@ -1,4 +1,4 @@
-    # Level 03 — Hidden files
+    # Level 03 - Hidden files
 
     ### Challenge
     Locate a hidden file in a directory.

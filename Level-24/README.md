@@ -1,4 +1,4 @@
-    # Level 24 — Automation & loops
+    # Level 24 - Automation & loops
 
     ### Challenge
     Automate a repetitive test (numeric brute-force) to find the password.

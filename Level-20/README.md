@@ -1,4 +1,4 @@
-    # Level 20 — Process communication
+    # Level 20 - Process communication
 
     ### Challenge
     Send data to a service and receive a response using local networking.

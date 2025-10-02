@@ -1,4 +1,4 @@
-    # Level 04 — File permissions
+    # Level 04 - File permissions
 
     ### Challenge
     Open a file with strange permissions or names.

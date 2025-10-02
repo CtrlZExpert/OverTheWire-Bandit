@@ -48,7 +48,7 @@ Each level file contains:
 | 21 | [Level-21](Level-21/) | Using rot13 to decode text |
 | 22 | [Level-22](Level-22/) | Converting hex dumps back to binary |
 | 23 | [Level-23](Level-23/) | Extracting readable text from binaries with `strings` |
-| 24 | [Level-24](Level-24/) | [Final level focus here, e.g., advanced SSH or hidden data] |
+| 24 | [Level-24](Level-24/) | Advanced SSH techniques and hidden data extraction |
 ---
 
 ## Note to Recruiters
